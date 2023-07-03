@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Dadjokeskotlin6</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name = "show_PunchLine">Show Punch Line </string>
+    <string name = "PunchLines">No Joke Selected</string>
+    <string-array name = "jokes">
+        <item>What did the zero say to the eight?</item>
+        <item>Where do you learn to make a banana split?</item>
+        <item>Where do fruits go on vacation?</item>
+        <item>Why do seagulls fly over the ocean?</item>
+        <item>What do you call a poor Santa Claus?</item>
+        <item>How many tickles does it take to make an octopus laugh? </item>
+        <item>What concert costs just 45 cents?</item>
+        <item>What country capital is growing the fastest?</item>
+        <item>Why was Cinderella so bad at soccer?</item>
+        <item>What did the horse say after it tripped?</item>
+        <item>What do you call a well-balanced horse?</item>
+        <item>What do you call an angry carrot?</item>
+        <item>Where do polar bears keep their money?</item>
+    </string-array>
+</resources>
